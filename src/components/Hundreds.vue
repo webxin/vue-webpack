@@ -1,0 +1,9 @@
+<template>
+    <div>
+        百家
+    </div>
+</template>
+<script>
+</script>
+<style>
+</style>
